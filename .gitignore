@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data files (exclude all data from version control)
+data/
+*.csv
+
+# Generated images and visualizations
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Model files (exclude trained models)
+models/
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI files
+.claude
+CLAUDE.md
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
